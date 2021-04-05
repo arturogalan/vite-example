@@ -1,0 +1,13 @@
+{
+  "name": "clarity-score-images-builder",
+  "version": "1.0.0",
+  "description": "A tool to generate svgs from the vue score-wheel component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@vue/server-renderer": "^3.0.11",
+    "vue": "^3.0.11"
+  }
+}
